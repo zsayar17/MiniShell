@@ -1,2 +1,2 @@
 # MiniShell
-Mini Bash Shell. It is written with "lexer->expander->parser->executor" structure
+Mini Bash kernel. It is written with "lexer->expander->parser->executor" structure
